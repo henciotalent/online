@@ -1,10 +1,18 @@
 {
-    "time": "permanent",
-    "ban": "none",
     "username": "proxenet",
-    "verified": true,
-    "privileges": {
+    "status": "active",
+    "account_type": "verified",
+    "features": {
         "beta_access": true,
-        "admin_role": true
+        "admin_privileges": true
+    },
+    "activity": {
+        "last_login": "2023-12-09T18:23:45Z",
+        "login_history": [
+            "2023-12-09T18:23:45Z",
+            "2023-12-08T09:15:30Z",
+            "2023-12-07T14:50:20Z"
+        ],
+        "total_sessions": 257
     }
 }
