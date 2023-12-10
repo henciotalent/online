@@ -1,0 +1,10 @@
+{
+    "time": "permanent",
+    "ban": "none",
+    "username": "proxenet",
+    "verified": true,
+    "privileges": {
+        "beta_access": true,
+        "admin_role": true
+    }
+}
